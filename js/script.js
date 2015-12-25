@@ -1,13 +1,4 @@
-/**
- *
- * Christmas tree with three.js
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2013, Script Tutorials
- * http://www.script-tutorials.com/
- */
+
 
 var container;
 var camera, scene, renderer, group;
