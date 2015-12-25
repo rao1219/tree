@@ -34,7 +34,7 @@ function init() {
     info.style.top = '10px';
     info.style.width = '100%';
     info.style.textAlign = 'center';
-    info.innerHTML = 'Christmas tree by Raoqi. View on <a href="https://github.com/rao1219/tree">Github</a><br/>drag to rotate~';
+    info.innerHTML = 'Christmas tree by Raoqi. View the <a href="https://github.com/rao1219/tree">code</a><br/>drag to rotate~';
     
     container.appendChild(info);
 
